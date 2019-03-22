@@ -1,0 +1,16 @@
+Claymore's Dual Miner License Agreement
+==========
+
+Copyright (c) 2016-2017 Claymore
+
+1. Subject to the terms of this Agreement, you are granted a revocable, non-exclusive, non-transferable, limited and worldwide license to use this software for the internal use only.
+
+2. You may not sell, transfer, rent, assign, lease, loan, sublicense, lend, resell, redistribute or otherwise share this software. 
+Further, you shall not modify, make derivative works based upon, recreate, generate, disassemble, decompile, reverse engineer, reverse assemble, 
+reverse compile or otherwise attempt to derive the human-readable form of the source code of any parts of this software.
+
+3. You may not cancel, reduce, change, remove, block, or redirect built-in developer fee in any way (except using "-nofee" option).
+
+4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
