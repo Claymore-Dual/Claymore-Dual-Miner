@@ -9,7 +9,6 @@ GOOGLE: https://drive.google.com/open?id=0B69wv2iqszefdFZUV2toUG5HdlU
 MEGA: https://mega.nz/#F!O4YA2JgD!n2b4iSHQDruEsYUvTQP5_w
 
 
-
 FEATURES:
 
 - Supports new "dual mining" mode: mining both Ethereum and Decred/Siacoin/Lbry/Pascal at the same time, with no impact on Ethereum mining speed. Ethereum-only mining mode is supported as well.
@@ -258,7 +257,7 @@ Dual mining:
 	EthDcrMiner64.exe -epool eth-eu.dwarfpool.com:8008 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F/YourWorkerName -epsw x -dpool stratum+tcp://lbry.suprnova.cc:6256 -dwal Redhex.my -dpsw x -dcoin lbc
 	Read dwarfpool FAQ for additional options, for example, you can setup email notifications if you specify your email as password.
 
- nanopool Ethereum+Siacoin:
+Â nanopool Ethereum+Siacoin:
 EthDcrMiner64.exe -epool eu1.nanopool.org:9999 -ewal YOUR_ETH_WALLET/YOUR_WORKER/YOUR_EMAIL -epsw x -dpool "http://sia-eu1.nanopool.org:9980/miner/header?address=YOUR_SIA_WALLET&worker=YOUR_WORKER_NAME&email=YOUR_EMAIL" -dcoin sia
 
  nanopool Ethereum+Siacoin(Stratum):
@@ -339,9 +338,9 @@ And order of GPUs in these lists can be different. There is no way to fix GPUs o
 But you can do it manually. For example, if you have two cards, you can change their order by adding "-di 10". Another example, reverse order for six cards: "-di 543210".
 Also you can do it automatically (experimental feature) with "-di detect" option.
 - Windows 10 Defender recognizes miner as a virus, some antiviruses do the same. Miner is not a virus, add it to Defender exceptions. 
-  I write miners since 2014. Most of them are recognized as viruses by some paranoid antiviruses, perhaps because I pack my miners to protect them from disassembling, perhaps because some people include them into their botnets, or perhaps these antiviruses are not good, I don't know. For these years, a lot of people used my miners and nobody confirmed that my miner stole anything or did something bad. 
-  Note that I can guarantee clean binaries only for official links in my posts on this forum (bitcointalk). If you downloaded miner from some other link - it really can be a virus.
-  However, my miners are closed-source so I cannot prove that they are not viruses. If you think that I write viruses instead of good miners - do not use this miner, or at least use it on systems without any valuable data.
+ Â I write miners since 2014. Most of them are recognized as viruses by some paranoid antiviruses, perhaps because I pack my miners to protect them from disassembling, perhaps because some people include them into their botnets, or perhaps these antiviruses are not good, I don't know. For these years, a lot of people used my miners and nobody confirmed that my miner stole anything or did something bad. 
+ Â Note that I can guarantee clean binaries only for official links in my posts on this forum (bitcointalk). If you downloaded miner from some other link - it really can be a virus.
+ Â However, my miners are closed-source so I cannot prove that they are not viruses. If you think that I write viruses instead of good miners - do not use this miner, or at least use it on systems without any valuable data.
 - LBC PoW is not very good for dual mining, it causes a bit less Ethereum mining speed.
 
 
