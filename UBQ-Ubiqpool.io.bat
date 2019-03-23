@@ -11,11 +11,3 @@ EthDcrMiner64.exe -epool stratum+tcp://eu.ubiqpool.io:8008 -ewal 0xc624c12b61c14
 pause
 
 
-
-
-
-
-
-
-
-
