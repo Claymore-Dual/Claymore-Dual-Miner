@@ -2,3 +2,4 @@ EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal 0x9147460980c93629e7757831
 
 pause
 
+
