@@ -9,8 +9,5 @@
         <img src="https://img.shields.io/github/commit-activity/m/badges/shields.svg" /></a>
     <a href="https://circleci.com/gh/badges/shields/tree/master">
         <img src="https://img.shields.io/circleci/project/github/badges/shields/master.svg" alt="build status"></a>
-    <a href="https://circleci.com/gh/badges/daily-tests">
-        <img src="https://img.shields.io/circleci/project/github/badges/daily-tests.svg?label=service%20tests"
-            alt="service-test status"></a>
 </p>
 
