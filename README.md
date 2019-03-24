@@ -55,7 +55,7 @@
 * Supports Nvidia 10x0 and 9x0 series as well as older cards with enough VRAM
 * Optional "green" kernels for RX580/570/560/480/470/460 to lower the power consumption by 2-3% with small, or no drop in hashrate
 * Lowest developer fee of 1% (35 seconds defvee mining per each 90 minutes)
-* Dual mining
+* Dual mining 💰
 * Advanced statistics: actual difficulty of each share, effective hashrate at the pool, and optional showing of estimated income in USD
 * DAG file generation in the GPU for faster start-up and DAG epoch switches
 * Supports all ethash mining pools and stratum protocols
