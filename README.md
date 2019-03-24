@@ -65,5 +65,5 @@
 * API for rig monitoring
 
 <p align="center">
-<img src="https://github.com/Claymore-Dual/Miner/blob/master/files/ethereum-mining.jpgg" /><
+<img src="https://github.com/Claymore-Dual/Miner/blob/master/files/ethereum-mining.jpg" /
 </p>
