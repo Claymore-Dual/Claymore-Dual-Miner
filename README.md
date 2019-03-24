@@ -63,3 +63,7 @@
 * Monitoring of GPU temperature, and if a critical temperature is reached, that particular GPU is turned off until it cools down
 * Set system shutdown temperature, to protect your GPU's from overheating
 * API for rig monitoring
+
+<p align="center">
+<img src="https://github.com/Claymore-Dual/Miner/blob/master/files/ethereum-mining.jpgg" /><
+</p>
