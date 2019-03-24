@@ -87,7 +87,5 @@
 <li>Step 3 – Join a <abbr rel="tooltip" title="Miners that have grouped together in order to mine more efficiently with their mining power combined. After they successfully mine a block they split the reward between them.">mining pool</abbr></li>
 <li>Step 4 – Start mining!</li>
 
-From Beginner's Guide to Ethereum Mining - Step by Step (2019 Updated)
-https://99bitcoins.com/ethereum/ethereum-mining/
 
   
