@@ -1,12 +1,5 @@
-# claymore dual miner - ethereum miner for windows
 <p align="center">
-
-        <img src="https://img.shields.io/opencollective/sponsors/shields.svg" /></a>
-    <a href="https://github.com/badges/shields/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields.svg" /></a>
-    <a href="https://circleci.com/gh/badges/shields/tree/master">
-
- <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/badges/shields.svg" /></a>
     <a href="#backers" alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields.svg" /></a>
@@ -38,4 +31,3 @@
         <img src="https://img.shields.io/twitter/follow/shields_io.svg?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
-Claymore is one of the most efficient and convenient miners to date, which is why it won the general recognition of miners.
