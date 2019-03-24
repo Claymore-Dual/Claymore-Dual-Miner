@@ -20,7 +20,10 @@
 # Claymore's Dual Ethereum AMD+NVIDIA GPU Miner v12.0 (Windows/Linux)
 <p>Claymore Miner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
 </p>
-
+<p align="center">
+<a href="#" alt="claymore ethereum miner">
+<img src="https://github.com/Claymore-Dual/claymore-dual-miner/blob/master/files/ethereum-hashrate2.png" />
+</p>
 ## Table of Contents
 - [Features](#features)
 - [Example](#example)
