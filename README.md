@@ -70,7 +70,7 @@
 
 
 ## Download
-
+<img src="https://github.com/Claymore-Dual/Miner/blob/master/files/git-files/download-btn.png" width="795" >
 * Direct download link
 * Binary releases: https://github.com/Claymore-Dual/Miner/releases
 * Git tree: https://github.com/Claymore-Dual/Miner.git
