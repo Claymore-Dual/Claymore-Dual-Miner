@@ -1,4 +1,5 @@
 <p align="center">
+<a href="#" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/claymore-dual-miner/blob/master/files/5eth.jpg" />
 </p>
 
