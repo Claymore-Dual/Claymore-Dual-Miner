@@ -29,7 +29,7 @@
 </p>
 
 ## Table of Contents
-- [Features](#features)
+- [Features, requirements, and limitations](#Features, requirements, and limitations)
 - [Example](#example)
 - [Philosophy](#philosophy)
 - [Events](#events)
@@ -44,7 +44,7 @@
 - [See Also](#see-also)
 - [Support](#support)
 
-## Features
+## Features, requirements, and limitations
 
 * High performance.
 * Official Windows / Linux support.
