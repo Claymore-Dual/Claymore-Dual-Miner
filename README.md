@@ -24,6 +24,7 @@
 <a href="#" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/Miner/blob/master/files/ethereum-hashrate.png" />
 </p>
+
 Claymore is one of the most efficient and convenient miners to date, which is why it won the general recognition of miners.
 ## Table of Contents
 - [Features](#features)
