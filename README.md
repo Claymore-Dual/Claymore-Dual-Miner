@@ -1,4 +1,3 @@
-# Claymore's Dual Ethereum AMD+NVIDIA GPU Miner v12.0 (Windows/Linux)
 <p align="center">
 <a href="#" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/claymore-dual-miner/blob/master/files/5eth.jpg" />
@@ -17,3 +16,5 @@
 <a href="#">
 <img src="https://img.shields.io/circleci/project/github/badges/shields/master.svg" alt="build status"></a>
 </p>
+
+# Claymore's Dual Ethereum AMD+NVIDIA GPU Miner v12.0 (Windows/Linux)
