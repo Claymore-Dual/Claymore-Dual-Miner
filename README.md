@@ -29,7 +29,7 @@
 </p>
 
 ## Table of Contents
-- [Features, requirements, and limitations](#Features, requirements, and limitations)
+- [Features, requirements, and limitations](#Features-requirements-and-limitations)
 - [Example](#example)
 - [Philosophy](#philosophy)
 - [Events](#events)
