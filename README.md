@@ -22,7 +22,7 @@
 </p>
 <p align="center">
 <a href="#" alt="claymore ethereum miner">
-<img src="https://github.com/Claymore-Dual/claymore-dual-miner/blob/master/files/ethereum-hashrate2.png" />
+<img src="https://github.com/Claymore-Dual/claymore-dual-miner/blob/master/files/ethereum-hashrate.png" />
 </p>
 ## Table of Contents
 - [Features](#features)
