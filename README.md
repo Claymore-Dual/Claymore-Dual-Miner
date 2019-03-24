@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://github.com/Claymore-Dual/claymore-dual-miner/blob/master/docs/5eth.jpg" />
+</p>
+
+<p align="center">
 <a href="https://github.com/Claymore-Dual/claymore-dual-miner/releases" alt="Activity">
 <img src="https://img.shields.io/github/downloads/xmrig/xmrig/total.svg" /></a>
 
