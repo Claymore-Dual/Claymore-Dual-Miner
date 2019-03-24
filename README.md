@@ -21,7 +21,7 @@
 <p>Claymore Miner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
 </p>
 <p align="center">
-<a href="#" alt="claymore ethereum miner">
+<a href="https://github.com/Claymore-Dual/Miner/releases/download/v12.0/WINDOWS.-.Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v12.0.zip" alt="claymore ethereum miner"></a>
 <img src="https://github.com/Claymore-Dual/Miner/blob/master/files/ethereum-hashrate.png" />
 </p>
 
