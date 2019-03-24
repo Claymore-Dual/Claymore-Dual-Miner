@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Claymore-Dual/claymore-dual-miner/blob/master/docs/5eth.jpg" />
+<img src="https://github.com/Claymore-Dual/claymore-dual-miner/blob/master/files/5eth.jpg" />
 </p>
 
 <p align="center">
