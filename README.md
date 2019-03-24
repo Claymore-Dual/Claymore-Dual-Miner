@@ -30,6 +30,7 @@
 
 ## Table of Contents
 - [Features, requirements, and limitations](#Features-requirements-and-limitations)
+- [Download](#Download)
 - [Example](#example)
 - [Philosophy](#philosophy)
 - [Events](#events)
@@ -65,5 +66,11 @@
 * API for rig monitoring
 
 <p align="center">
-<img src="https://github.com/Claymore-Dual/Miner/blob/master/files/ethereum-mining.jpg" /
+<img src="https://github.com/Claymore-Dual/Miner/blob/master/files/ethereum-mining.jpg" />
 </p>
+
+## Download
+
+* Direct download link
+* Binary releases: https://github.com/Claymore-Dual/Miner/releases
+* Git tree: https://github.com/Claymore-Dual/Miner.git
