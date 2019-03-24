@@ -59,7 +59,6 @@
 * DAG file generation in the GPU for faster start-up and DAG epoch switches
 * Supports all ethash mining pools and stratum protocols
 * Watchdog that monitors your GPU threads, if they stop hashing for a few minutes, miner restarts itself
-* Hash monitor, if 5 minute average hash falls under the value you define, miner restarts itself
 * Startup monitor, if miner can't init GPU's and start mining in a defined time, restarts itself or runs a user defined script
 * Monitoring of GPU temperature, and if a critical temperature is reached, that particular GPU is turned off until it cools down
 * Set system shutdown temperature, to protect your GPU's from overheating
