@@ -7,7 +7,6 @@
 <p align="center">
     <a href="https://github.com/Claymore-Dual/claymore-dual-miner/pulse" alt="Activity">
         <img src="https://img.shields.io/github/downloads/xmrig/xmrig-amd/total.svg" /></a>
-		
     <a href="https://github.com/Claymore-Dual/claymore-dual-miner/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/badges/shields.svg" /></a>
     <a href="#">
