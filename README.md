@@ -1,7 +1,7 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig-amd/total.svg)](https://github.com/Claymore-Dual/claymore-dual-miner/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date-pre/xmrig/xmrig-amd.svg)](https://github.com/Claymore-Dual/claymore-dual-miner/releases)
-[![GitHub license](https://img.shields.io/github/license/xmrig/xmrig-amd.svg)](https://github.com/Claymore-Dual/claymore-dual-miner/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/xmrig/xmrig-amd.svg)](https://github.com/Claymore-Dual/claymore-dual-miner/blob/master/License.txt)
 
 
 <p align="center">
