@@ -74,3 +74,4 @@
 * Direct download link
 * Binary releases: https://github.com/Claymore-Dual/Miner/releases
 * Git tree: https://github.com/Claymore-Dual/Miner.git
+  * Clone with `git clone https://github.com/Claymore-Dual/Miner.git`  :hammer:
