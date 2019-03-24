@@ -83,7 +83,7 @@
 ## How to use
 
 <li>Step 1 – Install your GPUs and set up your computer</li>
-<li>Step 2 – Get an Ethereum wallet (<a href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
+<li>Step 2 – Get an Ethereum wallet (<a href="https://github.com/ethereum/mist/releases" target="_blank" rel="nofollow">Mist</a> or MyEtherWallet)</li>
 <li>Step 3 – Join a <abbr rel="tooltip" title="Miners that have grouped together in order to mine more efficiently with their mining power combined. After they successfully mine a block they split the reward between them.">mining pool</abbr></li>
 <li>Step 4 – Start mining!</li>
 
