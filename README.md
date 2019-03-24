@@ -45,3 +45,8 @@
 - [Support](#support)
 
 ## Features
+
+* High performance.
+* Official Windows / Linux support.
+* Nicehash support.
+* Automatic GPU configuration.
