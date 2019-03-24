@@ -8,6 +8,7 @@ set GPU_SINGLE_ALLOC_PERCENT=100
 
 EthDcrMiner64.exe -epool etc.coinmine.pl:24000 -ewal rgzrgz_leo.rgzrgz_leo -epsw x -esm 2 -allpools 1 -allcoins etc -mode 1 -r 1 -dbg -1 -mport 0 -etha 0 -retrydelay 3 -ftime 45 -tt 70 -ttli 79 -tstop 82 -fanmin 30
 
+
 pause
 
 
