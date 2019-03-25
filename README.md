@@ -86,8 +86,14 @@ PhoenixMiner.exe -pool eu1.ethermine.org:4444 -wal 0x9147460980c93629e7757831485
 pause
 ```
 
+### Ethereum - sparkpool.com
+```batch
+PhoenixMiner.exe -pool eu.sparkpool.com:3333 -wal 0x9147460980c93629e775783148591b7d0a0cbf2d -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 -coin eth
+pause
+```
 
-###
+
+
 
 
 ###
