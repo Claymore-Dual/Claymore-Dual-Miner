@@ -83,9 +83,10 @@
 ## How to use
 
 <li>Step 1 – Install your GPUs and set up your computer</li>
-<li>Step 2 – Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
-<li>Step 3 – Join a <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a></li>
-<li>Step 4 – Start mining!</li>
+<li>Step 2 – <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/WINDOWS.-.Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v12.0.zip">Download latest claymore</a></li>
+<li>Step 3 – Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
+<li>Step 4 – Join a <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a></li>
+<li>Step 5 – Start mining!</li>
 
 
   
