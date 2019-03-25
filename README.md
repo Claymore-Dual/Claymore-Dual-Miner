@@ -80,6 +80,21 @@
 
 ## Example
 
+### Ethereum - Ethermine.org
+```batch
+PhoenixMiner.exe -pool eu1.ethermine.org:4444 -wal 0x9147460980c93629e775783148591b7d0a0cbf2d -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 -coin eth
+pause
+```
+
+
+###
+
+
+###
+
+
+###
+
 ## Claymore Miner Auto Restart 
 
 In Windows if you’ve  configured your miner through a batch file then you can easily make the script to loop with this simple command.
