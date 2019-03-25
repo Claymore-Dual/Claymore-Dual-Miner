@@ -33,18 +33,8 @@
 - [Download](#Download)
 - [Usage](#Usage)
 - [Example](#example)
-- [Philosophy](#philosophy)
-- [Events](#events)
-- [State](#state)
-- [Routing](#routing)
-- [Server Rendering](#server-rendering)
-- [Components](#components)
-- [Optimizations](#optimizations)
-- [FAQ](#faq)
-- [API](#api)
-- [Installation](#installation)
-- [See Also](#see-also)
-- [Support](#support)
+- [Auto Restart](#restart)
+
 
 ## Features, requirements, and limitations
 
@@ -88,5 +78,13 @@
 <li>Step 4 â€“ Join a <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a></li>
 <li>Step 5 â€“ Start mining!</li>
 
+## Example
 
+## Claymore Miner Auto Restart 
+
+In Windows if you’ve  configured your miner through a batch file then you can easily make the script to loop with this simple command.
+
+:start
+<your miner configuration goes here>
+goto start
   
