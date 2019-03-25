@@ -82,7 +82,7 @@
   
 ## How to use
 
-<li>Step 1 – Install your GPUs and set up your computer</li>
+– Step 1 Install your GPUs and set up your computer –
 <li>Step 2 – Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
 <li>Step 3 – Join a <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a></li>
 <li>Step 4 – Start mining!</li>
