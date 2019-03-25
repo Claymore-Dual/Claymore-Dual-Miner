@@ -88,7 +88,7 @@ your miner configuration goes here
 goto start`
 ```
 
-** Example:
+**Example:**
 ```batch
 :start
 PhoenixMiner.exe -pool eth-eu2.nanopool.org:9999 -wal 0x1a0e2c4cd699cee12672adc223fdb30b93253eba -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 -coin eth
