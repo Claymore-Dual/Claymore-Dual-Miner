@@ -84,7 +84,7 @@
 
 In Windows if you’ve  configured your miner through a batch file then you can easily make the script to loop with this simple command.
 
-:start
+`:start
 <your miner configuration goes here>
-goto start
+goto start`
   
