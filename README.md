@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/WINDOWS.-.Claymore.s.Dual.Ethereum+Decred_Siacoin_Lbry_Pascal_Blake2s_Keccak.AMD+NVIDIA.GPU.Miner.v12.0.zip" alt="claymore ethereum miner">
-<img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/5eth.jpg" /></a>
+<img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/files/git-files/5eth.jpg" /></a>
 </p>
 
 <p align="center">
