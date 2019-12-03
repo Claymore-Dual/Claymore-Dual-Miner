@@ -22,6 +22,8 @@ We put our souls into the development of the Claymore Dual Miner!
 
 Claymore today used by thousands of satisfied users.
 
+So, thank you so much for joining us!
+
 <p>Claymore Miner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
 </p>
 <p align="center">
