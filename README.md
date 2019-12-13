@@ -5,9 +5,9 @@
 
 <p align="center">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/date.svg" />
- </p>
+
  
- <p align="center">
+
  <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/uptime.svg" /></a>
 </p>
 
