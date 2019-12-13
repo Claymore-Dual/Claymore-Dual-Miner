@@ -4,17 +4,10 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases" alt="Activity">
-<img src="https://img.shields.io/github/downloads/xmrig/xmrig/total.svg" /></a>
 
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/License.txt" alt="Activity">
-<img src="https://img.shields.io/github/license/xmrig/xmrig-amd.svg" /></a>
-<a href="#" alt="Activity">
 <img src="https://img.shields.io/github/release-date-pre/xmrig/xmrig-amd.svg" /></a>
 <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/pulse" alt="Activity">
-<img src="https://img.shields.io/github/commit-activity/m/badges/shields.svg" /></a>
-<a href="#">
-<img src="https://img.shields.io/circleci/project/github/badges/shields/master.svg" alt="build status"></a>
+
 </p>
 
 # Claymore's Dual Ethereum AMD+NVIDIA GPU Miner v12.0 (Windows/Linux)
