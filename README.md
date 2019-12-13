@@ -7,6 +7,10 @@
 
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/date.svg" /></a>
 <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/pulse" alt="Activity">
+ 
+ <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/uptime.svg" /></a>
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/pulse" alt="Activity">
+
 
 </p>
 
