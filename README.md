@@ -125,4 +125,10 @@ goto start`
 EthDcrMiner64.exe -pool eth-eu2.nanopool.org:9999 -wal 0x1a0e2c4cd699cee12672adc223fdb30b93253eba -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 
 goto start
 ```
-  
+ 
+## Troubleshooting
+
+### Error -61 is CL_INVALID_BUFFER_SIZE.
+Miner cannot assign enough GPU memory. If some other miner works fine - use it, but it will stop working soon too. The most probable reason (it's related to both nvidia and amd cards):
+https://social.technet.microsoft.com/Forums/en-US/15b9654e-5da7-45b7-93de-e8b63faef064/windows-10-does-not-let-cuda-applications-to-use-all-vram-on-especially-secondary-graphics-cards?forum=win10itprohardware
+Exact size of reserved GPU memory depends on Windows build and drivers, but afaik the values are similar.
