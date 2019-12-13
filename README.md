@@ -129,6 +129,8 @@ goto start
 ## Troubleshooting
 
 ### Error -61 is CL_INVALID_BUFFER_SIZE.
-Miner cannot assign enough GPU memory. If some other miner works fine - use it, but it will stop working soon too. The most probable reason (it's related to both nvidia and amd cards):
+Miner cannot assign enough GPU memory. 
+And Just a friendly reminder that if your card has under 4GB of VRAM, it cannot be used to mine.
+If some other miner works fine - use it, but it will stop working soon too. The most probable reason (it's related to both nvidia and amd cards:
 https://social.technet.microsoft.com/Forums/en-US/15b9654e-5da7-45b7-93de-e8b63faef064/windows-10-does-not-let-cuda-applications-to-use-all-vram-on-especially-secondary-graphics-cards?forum=win10itprohardware
-Exact size of reserved GPU memory depends on Windows build and drivers, but afaik the values are similar.
+Exact size of reserved GPU memory depends on drivers and Windows build, but afaik the values are similar.
