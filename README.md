@@ -8,7 +8,7 @@
 
  
 
- <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/uptime.svg" /></a>
+ <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/uptime.svg" />
 </p>
 
 # Claymore's Dual Ethereum AMD+NVIDIA GPU Miner v12.0 (Windows/Linux)
