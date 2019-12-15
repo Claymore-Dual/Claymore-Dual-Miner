@@ -138,7 +138,7 @@ https://social.technet.microsoft.com/Forums/en-US/15b9654e-5da7-45b7-93de-e8b63f
 
 example:
 <p><code>EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal YOUR_WALLET -eworker YOUR_WORKER -epsw x -allcoins 1</code></p>
-
+<p></p>
 <p>or </p>
 
 <p><code>EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal YOUR_WALLET -eworker YOUR_WORKER -epsw x -allpools 1</code></p>
