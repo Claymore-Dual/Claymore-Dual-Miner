@@ -33,7 +33,8 @@ So, thank you so much for joining us!
 - [Download](#Download)
 - [Usage](#Usage)
 - [Example](#example)
-- [Auto Restart](#restart)
+- [Auto Restart](#claymore-minerauto-restart)
+- [Troubleshooting guide](#troubleshooting-guide)
 
 
 ## Features, requirements, and limitations
