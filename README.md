@@ -89,17 +89,20 @@ pause
 
 ### Ethereum - sparkpool.com
 ```batch
-EthDcrMiner64.exe -pool eu.sparkpool.com:3333 -wal 0x9147460980c93629e775783148591b7d0a0cbf2d -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 
+EthDcrMiner64.exe -pool eu.sparkpool.com:3333 -wal 0x9147460980c93629e775783148591b7d0a0cbf2d -worker Rig1 -epsw x -dbg -1 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 
 pause
 ```
 ### Ethereum - f2pool.com
 ```batch
-EthDcrMiner64.exe -pool eth.f2pool.com:8008 -wal 0x1a0e2c4cd699cee12672adc223fdb30b93253eba -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 
+EthDcrMiner64.exe -pool eth.f2pool.com:8008 -wal 0x1a0e2c4cd699cee12672adc223fdb30b93253eba -worker Rig1 -epsw x -dbg -1 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 
 pause
 ```
 
+### Linux:
 
-
+```bash
+./ethdcrminer64 -epool eu1.ethermine.org:4444 -ewal 0x1a0e2c4cd699cee12672adc223fdb30b93253eba -eworker Rig1 -epsw x -mode 1 -dbg -1 -mport 0 -etha 0 -ftime 55 -retrydelay 1 -tt 79 -ttli 77 -tstop 89 
+```
 
 ###
 
