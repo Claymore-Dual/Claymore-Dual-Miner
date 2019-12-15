@@ -129,6 +129,8 @@ goto start
 https://social.technet.microsoft.com/Forums/en-US/15b9654e-5da7-45b7-93de-e8b63faef064/windows-10-does-not-let-cuda-applications-to-use-all-vram-on-especially-secondary-graphics-cards?forum=win10itprohardware</p>
 <p>Exact size of reserved GPU memory depends on drivers and Windows build, but the values are similar.</p>
 
+&nbsp;
+
 ### Error - Probably you are trying to mine Ethereum fork. Please specify "-allcoins 1" or "-allpools 1" option
 
 <p>If you see this error, then you should update your miner or connect to another pool.</p>
@@ -137,10 +139,14 @@ https://social.technet.microsoft.com/Forums/en-US/15b9654e-5da7-45b7-93de-e8b63f
 
 **Example:**
 ```batch
+:start
 EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal YOUR_WALLET -eworker YOUR_WORKER -epsw x -allcoins 1
+goto start
 ```
 <p>or </p>
 
 ```batch
+:start
 EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal YOUR_WALLET -eworker YOUR_WORKER -epsw x -allpools 1
+goto start
 ```
