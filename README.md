@@ -128,3 +128,18 @@ goto start
 <p>If some other miner works fine - use it, but it will stop working soon too. The most probable reason (it's related to both nvidia and amd cards:
 https://social.technet.microsoft.com/Forums/en-US/15b9654e-5da7-45b7-93de-e8b63faef064/windows-10-does-not-let-cuda-applications-to-use-all-vram-on-especially-secondary-graphics-cards?forum=win10itprohardware</p>
 <p>Exact size of reserved GPU memory depends on drivers and Windows build, but the values are similar.</p>
+
+### Error - Probably you are trying to mine Ethereum fork. Please specify "-allcoins 1" or "-allpools 1" option
+
+
+<p>If you see this error, then you should update your miner or connect to another pool.</p>
+
+<p>If you want to mine some ETH fork, always specify "<code>-allcoins 1</code>", it will work in all versions. If you don't do it, it may work in some old versions and won't work in recent versions.</p>
+
+example:
+<p><code>EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal YOUR_WALLET -eworker YOUR_WORKER -epsw x -allcoins 1</code></p>
+
+<p>or </p>
+
+<p><code>EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal YOUR_WALLET -eworker YOUR_WORKER -epsw x -allpools 1</code></p>
+
