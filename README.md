@@ -120,7 +120,7 @@ EthDcrMiner64.exe -pool eth-eu2.nanopool.org:9999 -wal 0x1a0e2c4cd699cee12672adc
 goto start
 ```
  
-## Troubleshooting
+## Troubleshooting guide
 
 ### Error -61 is CL_INVALID_BUFFER_SIZE
 <p>Miner cannot assign enough GPU memory.</p>
