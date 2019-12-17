@@ -100,6 +100,13 @@ EthDcrMiner64.exe -pool eth.f2pool.com:8008 -wal 0x1a0e2c4cd699cee12672adc223fdb
 pause
 ```
 
+## Ethereum - NiceHash
+```batch
+EthDcrMiner64.exe -epool stratum+tcp://daggerhashimoto.eu-new.nicehash.com:3353 -ewal 1Pz3EcHsRuJkraNRACUrBrLaxiTPP1VHJZ -epsw x -allpools 1
+pause
+```
+
+
 ### Linux:
 
 ```bash
