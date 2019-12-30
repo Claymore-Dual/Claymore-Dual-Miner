@@ -140,7 +140,7 @@ goto start
 <thead>
 		<tr>
 			<td>Model</td>
-			<td>Скорость, MH/s</td>
+			<td>Hashrate, MH/s</td>
 		</tr>
 </thead>		
 <tbody>		
