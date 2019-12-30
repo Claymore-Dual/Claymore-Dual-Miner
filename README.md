@@ -34,6 +34,7 @@ So, thank you so much for joining us!
 - [Claymore Dual Miner Setup](#claymore-dual-miner-setup)
 - [Example](#example)
 - [Auto Restart](#claymore-minerauto-restart)
+- [Hashrate](#hashrate)
 - [Troubleshooting guide](#troubleshooting-guide)
 
 
@@ -132,6 +133,111 @@ goto start`
 EthDcrMiner64.exe -pool eth-eu2.nanopool.org:9999 -wal 0x1a0e2c4cd699cee12672adc223fdb30b93253eba -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 
 goto start
 ```
+ 
+##  Hashrate
+
+<table class="responsive-table mar">
+<thead>
+		<tr>
+			<td>Model</td>
+			<td>Скорость, MH/s</td>
+		</tr>
+</thead>		
+<tbody>		
+		<tr>
+			<td data-title="Model">AMD RX Vega 64</td>
+			<td data-title="MH/s">39,69</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD Vega Frontier Edition</td>
+			<td data-title="MH/s">38,59</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD RX Vega 56</td>
+			<td data-title="MH/s">35,86</td>
+		</tr>
+		<tr>
+			<td data-title="Model">NVIDIA GTX 1080 Ti</td>
+			<td data-title="MH/s">33,4-55</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD RX 480</td>
+			<td data-title="MH/s">30,04</td>
+		</tr>
+		<tr>
+			<td data-title="Model">NVIDIA GTX 1070</td>
+			<td data-title="MH/s">28,69</td>
+		</tr>
+		<tr>
+			<td data-title="Model">NVIDIA GTX 1080</td>
+			<td data-title="MH/s">34,63</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD R9 Fury Nano</td>
+			<td data-title="MH/s">26,26</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD R9 290X</td>
+			<td data-title="MH/s">25,75</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD RX 470</td>
+			<td data-title="MH/s">30,00</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD RX 570</td>
+			<td data-title="MH/s">60,00</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD RX 580</td>
+			<td data-title="MH/s">30,00</td>
+		</tr>
+		<tr>
+			<td data-title="Model">NVIDIA GTX 970</td>
+			<td data-title="MH/s">22,21</td>
+		</tr>
+		<tr>
+			<td data-title="Model">NVIDIA GTX 980 Ti</td>
+			<td data-title="MH/s">21,57</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD R9 380X</td>
+			<td data-title="MH/s">20,63</td>
+		</tr>
+		<tr>
+			<td data-title="Model">NVIDIA GTX 980</td>
+			<td data-title="MH/s">20,28</td>
+		</tr>
+		<tr>
+			<td data-title="Model">NVIDIA GTX 1060</td>
+			<td data-title="MH/s">20,13</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD R9 390</td>
+			<td data-title="MH/s">18,00</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD R9 380</td>
+			<td data-title="MH/s">18,00</td>
+		</tr>
+		<tr>
+			<td data-title="Model">NVIDIA GTX 1050 Ti</td>
+			<td data-title="MH/s">12,62</td>
+		</tr>
+		<tr>
+			<td data-title="Model">NVIDIA GTX 1050 4 GB</td>
+			<td data-title="MH/s">11,90</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD RX 460 4 GB</td>
+			<td data-title="MH/s">11,20</td>
+		</tr>
+		<tr>
+			<td data-title="Model">AMD RX 550 4 GB</td>
+			<td data-title="MH/s">10,50</td>
+		</tr>
+	</tbody>
+</table>
  
 ## Troubleshooting guide
 
