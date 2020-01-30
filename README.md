@@ -186,7 +186,7 @@ goto start
 		</tr>
 		<tr>
 			<td data-title="Model">AMD RX 570</td>
-			<td data-title="MH/s">60,00</td>
+			<td data-title="MH/s">30,00</td>
 		</tr>
 		<tr>
 			<td data-title="Model">AMD RX 580</td>
