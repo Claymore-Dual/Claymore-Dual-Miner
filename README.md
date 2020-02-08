@@ -228,12 +228,10 @@ goto start
 			<td data-title="Model">NVIDIA GTX 1050 4 GB</td>
 			<td data-title="MH/s">11,90</td>
 		</tr>
-		
 		<tr>
 			<td data-title="Model">AMD RX 460 4 GB</td>
 			<td data-title="MH/s">11,20</td>
 		</tr>
-		
 		<tr>
 			<td data-title="Model">AMD RX 550 4 GB</td>
 			<td data-title="MH/s">10,50</td>
