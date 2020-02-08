@@ -236,6 +236,10 @@ goto start
 			<td data-title="Model">AMD RX 550 4 GB</td>
 			<td data-title="MH/s">10,50</td>
 		</tr>
+			<tr>
+			<td data-title="Model">RX 5600 XT</td>
+			<td data-title="MH/s">42,70</td>
+		</tr>
 	</tbody>
 </table>
  
