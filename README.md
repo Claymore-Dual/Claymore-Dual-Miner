@@ -248,8 +248,13 @@ goto start
 			<td data-title="Model">RX 5500 XT</td>
 			<td data-title="MH/s">26,10</td>
 		</tr>
+			<tr>
+			<td data-title="Model">Radeon VII</td>
+			<td data-title="MH/s">78,10</td>
+		</tr>
 	</tbody>
 </table>
+ 
  
 ## Troubleshooting guide
 
