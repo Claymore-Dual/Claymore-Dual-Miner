@@ -254,7 +254,7 @@ goto start
 		</tr>
 		<tr>
 			<td data-title="Model">Nvidia P104-100</td>
-			<td data-title="MH/s">78,10</td>
+			<td data-title="MH/s">40,16</td>
 		</tr>
 	</tbody>
 </table>
