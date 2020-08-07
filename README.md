@@ -107,6 +107,18 @@ EthDcrMiner64.exe -epool stratum+tcp://daggerhashimoto.eu-new.nicehash.com:3353 
 pause
 ```
 
+### Ethereum - Flexpool.io
+```batch
+EthDcrMiner64.exe -pool eu.flexpool.io:4444 -wal 0x9147460980c93629e775783148591b7d0a0cbf2d -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 
+pause
+```
+
+### Ethereum - Flexpool.io (Secure/SSL)
+```batch
+EthDcrMiner64.exe -pool ssl://eu.flexpool.io:5555 -wal 0x9147460980c93629e775783148591b7d0a0cbf2d -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 
+pause
+```
+
 
 ### Linux:
 
