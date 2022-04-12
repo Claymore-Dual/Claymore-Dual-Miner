@@ -1,7 +1,9 @@
-<h3 align="center">🖐️ HELLO: How are you? My name is Pablo, I'd like to take this opportunity to introduce myself.</h3>
-<p align="center"><i>My passion in open-source software development has developed to the point that I am actively seeking financial aid to assist me in accomplishing both professional and personal goals. The funds will enable me to continue working full-time and developing fantastic applications, in addition to upgrading and maintaining my existing ones. I have created a fundraising page specifically for the purpose of storing my related fundraising materials. Your support would be really helpful and greatly appreciated - Thank you 🙏</i></p>
-<p align="center">https://github.com/sponsors/donPablo ] I||I [ https://www.patreon.com/donpablonow</p>
+<p align="center"><a href="https://www.patreon.com/donpablonow"><img align="center" src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/sponsor.png" /></a></p>
+
+<p align="center">To learn more about this program and to donate, please visit: https://www.patreon.com/donpablonow</p>
+
 <img src="https://github.com/donPabloNow/donPabloNow/raw/main/assets/Wave_2400.gif"/>
+
 <p align="center">
 <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/5eth.jpg" /></a>
