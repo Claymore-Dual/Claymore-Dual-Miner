@@ -1,8 +1,4 @@
-<p align="center"><a href="https://www.patreon.com/donpablonow"><img align="center" src="https://raw.githubusercontent.com/donPabloNow/donPabloNow/main/assets/sponsor.png" /></a></p>
-
-<p align="center">To learn more about this program and to donate, please visit: https://www.patreon.com/donpablonow</p>
-
-<img src="https://github.com/donPabloNow/donPabloNow/raw/main/assets/Wave_2400.gif"/>
+<p align="center">📢<sub><sup> <i><b> YOUR SUPPORT IS GREATLY APPRECIATED / </b> <a href="https://www.patreon.com/donPabloNow">PATREON.COM/DONPABLONOW</a> / <b>BTC</b>  3HVNOVVMLHVEWQLSCCQX9DUA26P5PRCTNQ / <b>ETH</b> 0X3D288C7A673501294C9289C6FC42480A2EA61417 </i>🙏 </sub></sup></p><blockquote><p> ⛔️ <sub><b>ARCHIVE PENDING</b>: This endeavour is likely to fail owing to a lack of support. If you find this project interesting, please support it by smashing the "star" button. If the project receives at some interest work on the project will continue.</sub></p></blockquote></br><a href="https://www.donPabloNow.com/#notice"><img src="https://www.donPabloNow.com/notice.wepd"/></a></br></br>
 
 <p align="center">
 <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/" alt="claymore ethereum miner">
