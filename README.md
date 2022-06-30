@@ -1,5 +1,7 @@
+<p align="center">📢<sub><sup> <i><b> YOUR SUPPORT IS GREATLY APPRECIATED / </b> <a href="https://www.patreon.com/donPabloNow">PATREON.COM/DONPABLONOW</a> / <b>BTC</b>  3HVNOVVMLHVEWQLSCCQX9DUA26P5PRCTNQ / <b>ETH</b> 0X3D288C7A673501294C9289C6FC42480A2EA61417 </i>🙏 </sub></sup></p><blockquote><p> ⛔️ <sub><b>ARCHIVE PENDING</b>: This endeavour is likely to fail owing to a lack of support. If you find this project interesting, please support it by smashing the "star" button. If the project receives at some interest work on the project will continue.</sub></p></blockquote></br><a href="https://www.donPabloNow.com/#notice"><img src="https://www.donPabloNow.com/notice.wepd"/></a></br></br>
+
 <p align="center">
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.miner.v15.0.-.widows.Password-claymore.zip" alt="claymore ethereum miner">
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/5eth.jpg" /></a>
 </p>
 
@@ -21,7 +23,7 @@ So, thank you so much for joining us!
 <p>Claymore Miner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
 </p>
 <p align="center">
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.miner.v15.0.-.widows.Password-claymore.zip" alt="claymore ethereum miner">
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/ethereum-hashrate.png" /></a>
 </p>
 
@@ -65,7 +67,7 @@ So, thank you so much for joining us!
 ## Download
 
 <p>
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.miner.v15.0.-.widows.Password-claymore.zip" alt="claymore ethereum miner">
+<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/download-btn.png" width="300" ></a></p>
 
 * Binary releases: https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases
@@ -75,7 +77,7 @@ So, thank you so much for joining us!
 ## Claymore Dual Miner Setup
 
 <li>Step 1 - Install your GPUs and set up your computer</li>
-<li>Step 2 - <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.miner.v15.0.-.widows.Password-claymore.zip">Download latest claymore miner</a></li>
+<li>Step 2 - <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/">Download latest claymore miner</a></li>
 <li>Step 3 - Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
 <li>Step 4 - Join a <a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/wiki/ETH-Mining-Pools-List-(updated-2019)">mining pool</a> (Create .bat file or config)</li>
 <li>Step 5 - Start mining!</li>
